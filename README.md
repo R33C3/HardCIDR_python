@@ -2,6 +2,7 @@
 HardCIDR but Python
 
 Takes three arguments:
+
 --target 
     This is the name of the organization you are looking to pull info for.
     
